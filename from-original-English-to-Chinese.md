@@ -4,7 +4,9 @@
 
 amazon.com  
 amazon.cn  
-oreilly.com
+oreilly.com  
+http://openbookproject.net/thinkcs/python/english3e/  
+python.org  
 
 Number 数字  
 String 字符串  
