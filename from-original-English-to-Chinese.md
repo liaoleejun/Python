@@ -25,14 +25,12 @@ xxxs变成xxxList
 
 这个东西的大小，颜色，重量。This object。
 
-Tuple  
-The term originated as an abstraction of the sequence: single, double, triple, quadruple, quintuple, sextuple, septuple, octuple, ..., n‑tuple, ..., where the prefixes are taken from the Latin names of the numerals.
-从五倍提炼出'tuple'，然后五倍之后就都是'*tuple'
-  
-1. 阳性单数主格拉丁词quintus"第五" --> 晚期拉丁语quintuplex"五倍" --> 法语quintuple
-'tu'来自quintus，是一步步遗传下来的，
-'ple'来自from a medieval Latin suffix ‑plus (meaning "more"[dubious – discuss]) related to `Greek` ‑πλοῦς, which replaced the classical and late antique ‑plex (meaning "folded"), as in "duplex".
-2. 然后模仿quintuple，造出了sextuple, septuple, octuple, ..., n‑tuple, ..., where the prefixes are taken from the Latin names of the numerals. 即后缀`-tuple`"表示多少倍的后缀"产生，
+Tuple诞生记  
+1. 阳性单数主格拉丁词quintus"第五" --> 晚期拉丁语quintuplex"五倍" --> 法语`quintuple`
+`tu`来自quintus，是一步步遗传下来的，`祖传`
+'ple'来自from a medieval Latin suffix ‑plus (meaning "more"[dubious – discuss]) related to Greek ‑πλοῦς, which replaced the classical and late antique ‑plex (meaning "folded"), as in "duplex".
+2. 然后模仿quintuple，造出了sextuple, septuple, octuple, ..., n‑tuple, ..., where the prefixes are taken from the Latin names of the numerals. 即后缀`-tuple`"表示多少倍的后缀"产生  
+即：The term originated as an abstraction of the sequence: single, double, triple, quadruple, quintuple, sextuple, septuple, octuple, ..., n‑tuple, ..., where the prefixes are taken from the Latin names of the numerals.  
 3. 最后单词`tuple`"中文翻译为元组"产生。
 
 
@@ -79,4 +77,4 @@ Latin Numbers 1 - 10 in Roman Numerals
 
 可以指示名词、动词、形容词的叫（指示词性的）词缀吧
 可以指示主属与宾夺呼的称为（指示格位的）词尾吧  
-quintus中的tus叫它词尾吧，这样可以和英语的指示词性的词缀相区分开。然后tus一步步遗传下来，加上后缀-ple变成quintuple。tu是quintus的蛛丝马迹，痕迹，相貌遗传，祖传。
+quintus中的tus叫它词尾吧，这样可以和英语的指示词性的词缀相区分开。然后tus一步步遗传下来，加上后缀-ple变成quintuple。tu是quintus的蛛丝马迹，痕迹，相貌遗传，`祖传`。
