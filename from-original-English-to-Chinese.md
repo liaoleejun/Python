@@ -33,12 +33,14 @@ Tuple诞生记
 3. 最后单词`tuple`"中文翻译为元组"产生。即：The term originated as an abstraction of the sequence: single, double, triple, quadruple, quintuple, sextuple, septuple, octuple, ..., n‑tuple, ..., where the prefixes are taken from the Latin names of the numerals.  
 
 阳性单数全部的格如下：
-nominative	quin'tus' 主格  
-genitive	  quin't'ī  属格  
-dative	    quin't'ō  与格  
-accusative	quin't'um 宾格  
-ablative	  quin't'ō  夺格, 离格  
-vocative	  quin't'e  呼格  
+nominative	quin`tus` 主格  
+genitive	  quin`t`ī  属格  
+dative	    quin`t`ō  与格  
+accusative	quin`t`um 宾格  
+ablative	  quin`t`ō  夺格, 离格  
+vocative	  quin`t`e  呼格  
+
+![image](https://github.com/liaoleejun/learn-python/images/quintus.png)
 
 number: five Quinque  
 ordinal number: fifth quintus (Declension性数格：阳性单数主格)  
