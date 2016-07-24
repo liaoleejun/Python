@@ -26,12 +26,11 @@ xxxs变成xxxList
 这个东西的大小，颜色，重量。This object。
 
 Tuple诞生记  
-1. 阳性单数主格拉丁词quintus"第五" --> 晚期拉丁语quintuplex"五倍" --> 法语`quintuple`
+1. 阳性单数主格拉丁词quintus"第五" --> 晚期拉丁语quintuplex"五倍" --> 法语`quintuple`  
 `tu`来自quintus，是一步步遗传下来的，`祖传`
-'ple'来自from a medieval Latin suffix ‑plus (meaning "more"[dubious – discuss]) related to Greek ‑πλοῦς, which replaced the classical and late antique ‑plex (meaning "folded"), as in "duplex".
+'ple'来自from a medieval Latin suffix ‑plus (meaning "more"[dubious – discuss]) related to Greek ‑πλοῦς, which replaced the classical and late antique ‑plex (meaning "folded"), as in "duplex".  
 2. 然后模仿quintuple，造出了sextuple, septuple, octuple, ..., n‑tuple, ..., where the prefixes are taken from the Latin names of the numerals. 即后缀`-tuple`"表示多少倍的后缀"产生  
-即：The term originated as an abstraction of the sequence: single, double, triple, quadruple, quintuple, sextuple, septuple, octuple, ..., n‑tuple, ..., where the prefixes are taken from the Latin names of the numerals.  
-3. 最后单词`tuple`"中文翻译为元组"产生。
+3. 最后单词`tuple`"中文翻译为元组"产生。即：The term originated as an abstraction of the sequence: single, double, triple, quadruple, quintuple, sextuple, septuple, octuple, ..., n‑tuple, ..., where the prefixes are taken from the Latin names of the numerals.  
 
 
 阳性单数全部的格如下：
