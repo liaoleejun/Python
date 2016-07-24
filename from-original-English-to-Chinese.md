@@ -1,4 +1,4 @@
-我选了这本O'Reilly出版的书，出于2个考虑：第一，编程书入门一定要看英文版，第二，这本O'Reilly出版的书有相应的中文翻译版。O'Reilly出版社以动物为封面的计算机相关的书是计算机教材的权威，看了看书的目录，500多页，不算很厚，这个尺寸的书应该差不多可以涵盖所有的Python知识点。
+我选了这本O'Reilly出版的书，出于2个考虑：第一，编程入门时一定要看英文原版，第二，这本O'Reilly出版的书有相应的中文翻译版。O'Reilly出版社以动物为封面的计算机相关的书是计算机教材的权威，看了看书的目录，500多页，不算很厚，这个尺寸的书应该差不多可以涵盖所有的Python知识点。
 
 接下来就是对照中英文目录，开始研究。
 
@@ -27,7 +27,7 @@ xxxs变成xxxList
 
 Tuple诞生记  
 1. 阳性单数主格拉丁词quintus"第五" --> 晚期拉丁语quintuplex"五倍" --> 法语`quintuple`  
-`tu`来自quintus，是一步步遗传下来的，`祖传`
+**`tu`**来自quintus，是一步步遗传下来的，`祖传`
 'ple'来自from a medieval Latin suffix ‑plus (meaning "more"[dubious – discuss]) related to Greek ‑πλοῦς, which replaced the classical and late antique ‑plex (meaning "folded"), as in "duplex".  
 2. 然后模仿quintuple，造出了sextuple, septuple, octuple, ..., n‑tuple, ..., where the prefixes are taken from the Latin names of the numerals. 即后缀`-tuple`"表示多少倍的后缀"产生  
 3. 最后单词`tuple`"中文翻译为元组"产生。即：The term originated as an abstraction of the sequence: single, double, triple, quadruple, quintuple, sextuple, septuple, octuple, ..., n‑tuple, ..., where the prefixes are taken from the Latin names of the numerals.  
