@@ -3,18 +3,19 @@
 接下来就是对照中英文目录，开始研究。
 
 amazon.com  
-amazon.cn  oreilly.com
+amazon.cn  
+oreilly.com
 
-Number 数字
-String 字符串
-List 列表
-Dictionary 字典
-Tuple 元组
-Files 文件
+Number 数字  
+String 字符串  
+List 列表  
+Dictionary 字典  
+Tuple 元组  
+Files 文件  
 
-Array 数组
-要么是数，要么是字。一串，一列，一组。
-数：数字。阿拉伯帝国
-字：字符，字符串。罗马帝国
+Array 数组  
+要么是数，要么是字。一串，一列，一组。  
+数：数字。阿拉伯帝国  
+字：字符，字符串。罗马帝国  
 
-单元
+单元  
