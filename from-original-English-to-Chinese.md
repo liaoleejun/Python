@@ -40,7 +40,7 @@ accusative	quin`t`um 宾格
 ablative	  quin`t`ō  夺格, 离格  
 vocative	  quin`t`e  呼格  
 
-![image](https://github.com/liaoleejun/learn-python/images/quintus.png)
+![image](https://github.com/liaoleejun/learn-python/blob/master/images/quintus.png)
 
 number: five Quinque  
 ordinal number: fifth quintus (Declension性数格：阳性单数主格)  
