@@ -32,7 +32,6 @@ Tuple诞生记
 2. 然后模仿quintuple，造出了sextuple, septuple, octuple, ..., n‑tuple, ..., where the prefixes are taken from the Latin names of the numerals. 即后缀`-tuple`"表示多少倍的后缀"产生  
 3. 最后单词`tuple`"中文翻译为元组"产生。即：The term originated as an abstraction of the sequence: single, double, triple, quadruple, quintuple, sextuple, septuple, octuple, ..., n‑tuple, ..., where the prefixes are taken from the Latin names of the numerals.  
 
-
 阳性单数全部的格如下：
 nominative	quin'tus' 主格  
 genitive	  quin't'ī  属格  
@@ -72,7 +71,6 @@ Latin Numbers 1 - 10 in Roman Numerals
 
 名词Noun Declension
 动词Verb conjugation
-
 
 可以指示名词、动词、形容词的叫（指示词性的）词缀吧
 可以指示主属与宾夺呼的称为（指示格位的）词尾吧  
