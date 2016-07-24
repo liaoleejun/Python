@@ -2,7 +2,7 @@
 
 接下来就是对照中英文目录，开始研究。
 
-amazon.com
+amazon.com  
 amazon.cn
 oreilly.com
 
