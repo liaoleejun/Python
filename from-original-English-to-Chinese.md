@@ -41,6 +41,8 @@ ablative	  quin`t`ō  夺格, 离格
 vocative	  quin`t`e  呼格  
 
 ![image](https://github.com/liaoleejun/learn-python/blob/master/images/quintus.png)
+图 1 Quintus的性数格
+图片来源：en.wiktionary.org/wiki/quintus
 
 number: five Quinque  
 ordinal number: fifth quintus (Declension性数格：阳性单数主格)  
